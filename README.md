@@ -1,2 +1,0 @@
-# TIKTOK
-Git copilot
